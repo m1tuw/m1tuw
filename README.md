@@ -15,10 +15,9 @@ silly projects:
 [mitumallador](https://m1tuw.github.io/) (modals are broken but it works anyway)
 <br>
 
-# peak:
-<br>
-<br>
-<img src="https://github.com/m1tuw/m1tuw/blob/main/a.PNG">
+peak: <br>
+
+<img src="https://github.com/m1tuw/m1tuw/blob/main/a.PNG" width="1000">
 
 <!--
 **m1tuw/m1tuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
