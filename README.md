@@ -1,5 +1,9 @@
-## Hi there 👋
+## welcome to my whatever this is :)
 
+languages: <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="20"/>
+
+silly projects:
+[mitumallador](https://m1tuw.github.io/)
 <!--
 **m1tuw/m1tuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
