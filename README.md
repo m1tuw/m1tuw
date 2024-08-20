@@ -1,5 +1,3 @@
-welcome to my whatever this is :)
-
 know: 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="20"/> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="20"/>
@@ -15,6 +13,10 @@ learning:
 
 silly projects:
 [mitumallador](https://m1tuw.github.io/) (modals are broken but it works anyway)
+<br>
+
+peak:
+<img src="https://github.com/m1tuw/m1tuw/blob/main/a.PNG">
 
 <!--
 **m1tuw/m1tuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
