@@ -12,7 +12,7 @@ learning:
 <br>
 
 silly projects:
-[mitumallador](https://m1tuw.github.io/) (modals are broken but it works anyway)
+[mitumallador](https://m1tuw.github.io/) (modals are broken but it works so why even care)
 <br>
 
 peak: <br>
